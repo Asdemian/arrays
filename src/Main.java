@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         //task2
-        int[] aDozen = new int[12];
+        int[] aDozen = new int[3];
         aDozen[0] = 1;
         aDozen[1] = 2;
         aDozen[2] = 3;
@@ -22,5 +22,6 @@ public class Main {
         }
         int b = aDozen3.length-1;
         System.out.println(aDozen3[b]);
+
     }
 }
